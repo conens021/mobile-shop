@@ -1,0 +1,10 @@
+com\shop\model\ProductDAO.class
+com\shop\model\Product.class
+com\shop\model\OrderDAO.class
+com\shop\model\ManufDAO.class
+com\shop\controller\RandomString.class
+com\shop\controller\SiteController.class
+com\shop\model\CustomerDAO.class
+com\shop\model\Orders.class
+com\shop\model\Manufacturer.class
+com\shop\model\Customer.class
